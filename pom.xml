@@ -19,7 +19,7 @@
                 <!-- This is the way we get a consistent set of versions of the Google tools -->
                 <groupId>com.google.cloud</groupId>
                 <artifactId>libraries-bom</artifactId>
-                <version>20.2.0</version>
+                <version>20.6.0</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
