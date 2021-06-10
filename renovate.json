@@ -1,5 +1,12 @@
 {
   "extends": [
     "config:base"
+  ],
+  "hostRules": [
+    {
+      "matchHost": "secret.replace.test.basjes.nl",
+      "token": "{{ secrets.NIELS_WAS_HERE }}",
+      "authType": "{{ secrets.NIELS_WAS_HERE }}"
+    }
   ]
 }
