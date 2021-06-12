@@ -1,3 +1,3 @@
-FROM renovate/renovate:25.33.3
+FROM renovate/renovate:25.41.0
 
 USER 1000
